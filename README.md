@@ -6,7 +6,19 @@ It's perfect for playing around with, pranking friends, or using in the backgrou
 > [!CAUTION]
 > `Paranoia.ps1` is intended to provide an unsettling and anxiety inducing experience.
 > Some of its payloads are designed to resemble visual and auditory hallucinations.
-> If you are susceptible to **fear**, **anxiety**, **delusions**, **hallucinations**, and **Paranoia**, it is generally recommended that you **do not use this script**.       
+> If you are susceptible to **fear**, **anxiety**, **delusions**, **hallucinations**, and **Paranoia**, it is generally recommended that you **do not use this script**.
+>
+> I am **not responsible** for any negative physical, digital, or psychological effects suffered as a result of using this script, including, but not limited to:
+> - **Data Corruption / Loss of Data**
+> - **Fear**
+> - **Anxiety**
+> - **Delusions**
+> - **Hallucinations**
+> - **Existential Dread And Horror**
+> - **Inability to Distinguish Between Dreams and Reality**
+> - **Insanity**
+> - **Death**
+> - **Paranoia** 
 ## Features:
 - **13** Unique Payloads, including pop-up windows, barely audible TTS speech, opening the camera app, ejecting any connected CD drives, changing your wallpaper, sending keyboard inputs, and many more.
 - **Highly** Configurable. Every payload can be individually configured for maximum effect, including enabling/disabling each payload, changing the timeout intervals for each payload, changing the chance for a payload to trigger each interval, changing the wallpaper for the wallpaper payload, and many more. Tailor `Paranoia.ps1` to your ~~victim~~ friend and watch their reaction!
